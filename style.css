@@ -1,0 +1,54 @@
+body{
+    font-family: 'Yellowtail', cursive;
+    
+}
+.h1{
+    font-size: 50px;
+}
+.text-highlight{
+    color:orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 50%;
+
+}
+.top-banner{
+background-image: url("img0/top.png");  
+background-repeat:no-repeat ;
+}
+section{
+    height: 500px;
+  padding-bottom: 30px;
+}
+.link-button{
+    text-decoration:none;
+    background-color: orange;
+    margin: 10px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.singel-exp{
+    box-shadow: 10px 10px 40px gray;
+    height: 80%;
+
+}
+.exprianc{
+    background-image: url("img0/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#box-sdaw-color {
+
+
+border-left: tomato solid 7px;
+}
+#box-sdaw-color2{
+    border-left: blue solid 7px;
+}
